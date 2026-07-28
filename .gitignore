@@ -6,3 +6,5 @@
 /*.log
 /ckpt*
 /run*
+/.vscode
+/*.txt
